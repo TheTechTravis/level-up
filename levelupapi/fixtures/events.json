@@ -1,0 +1,12 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "event_time": "2020-08-28",
+            "game": 1,
+            "location": "Abandoned house on 31st St",
+            "scheduler": 1
+        }
+    }
+]
