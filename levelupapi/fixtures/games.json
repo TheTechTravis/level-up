@@ -15,9 +15,9 @@
         "pk": 2,
         "fields": {
             "title": "Welcome To...",
-            "gamer": 1,
             "game_type": 1,
             "number_of_players": 4,
+            "gamer": 1,
             "description": "As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more. Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in Welcome To...! Because of the communal actions, game play is simultaneous and thus supports large groups of players. With many varying strategies and completely randomized action sets, no two games will feel the same!"
         }
     },
@@ -26,9 +26,9 @@
         "pk": 3,
         "fields": {
             "title": "Settlers of Catan",
-            "gamer": 1,
             "game_type": 1,
             "number_of_players": 4,
+            "gamer": 1,
             "description": "The women and men of your expedition build the first two settlements. Fortunately, the yet uninhabited land is rich in natural resources. You build roads and new settlements that eventually become cities. Will you succeed in gaining supremacy on Catan? Barter trade dominates the scene. Some resources you have in abundance, other resources are scarce. Ore for wool, brick for lumber - you trade according to what is needed for your current building projects. Proceed strategically! If you found your settlements in the right places and skillfully trade your resources, then the odds will be in your favor. But your opponents are smart too."
         }
     },
@@ -37,9 +37,9 @@
         "pk": 4,
         "fields": {
             "title": "Dungeons & Dragons",
-            "gamer": 1,
             "game_type": 2,
             "number_of_players": 5,
+            "gamer": 1,
             "description": "The Dungeons & Dragons roleplaying game is about storytelling in worlds of sword and sorcery. It shares elements with childhood games of make-believe. Like those games, D&D is driven by imagination. It’s about picturing the towering castle beneath the stormy night sky and imagining how a fantasy adventurer might react to the challenges that scene presents. Unlike a game of make-believe, D&D gives structure to the stories, a way of determining the consequences of the adventurers’ action. Players roll dice to resolve whether their attacks hit or miss or whether their adventurers can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others. In the Dungeons & Dragons game, each player creates an adventurer (also called a character) and teams up with other adventurers (played by friends). Working together, the group might explore a dark dungeon, a ruined city, a haunted castle, a lost temple deep in a jungle, or a lava-filled cavern beneath a mysterious mountain. The adventurers can solve puzzles, talk with other characters, battle fantastic monsters, and discover fabulous magic items and other treasure."
         }
     }
